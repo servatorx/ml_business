@@ -1,0 +1,13 @@
+scikit-learn
+click==7.1.1
+colorama==0.4.3
+Flask==1.1.2
+Flask-WTF==0.14.3
+numpy==1.18.2
+pandas==1.0.3
+python-dateutil==2.8.1
+pytz==2019.3
+requests==2.23.0
+tabulate==0.8.7
+urllib3==1.25.8
+dill
